@@ -1,0 +1,22 @@
+{
+  "author": "Karl Düüna <karl.dyyna@gmail.com>",
+  "name": "phraseapp",
+  "version": "0.0.1",
+  "description": "Wrapper for Phraseapp REST API to simplify usage",
+  "keywords": [
+    "phraseapp",
+    "api",
+    "rest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DeadAlready/node-phraseapp"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "^2.48.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
