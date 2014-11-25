@@ -1,7 +1,7 @@
 {
   "author": "Karl Düüna <karl.dyyna@gmail.com>",
   "name": "phraseapp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wrapper for Phraseapp REST API to simplify usage",
   "keywords": [
     "phraseapp",
